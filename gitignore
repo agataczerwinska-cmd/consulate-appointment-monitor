@@ -1,0 +1,12 @@
+# Runtime output -- never commit
+state.json
+log.txt
+latest_screenshot.png
+debug.html
+
+# Local config and environments
+.env
+venv/
+__pycache__/
+*.pyc
+.DS_Store
